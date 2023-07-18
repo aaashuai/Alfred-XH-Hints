@@ -1,5 +1,6 @@
 # Alfred-XH-Hints
-Alfred-Workflow 小鹤双拼补全提示
+Alfred-Workflow 小鹤双拼补全提示  
+> 已迁移至 https://github.com/aaashuai/alfred-workflow/tree/master/xh-hint
 
 # Usage  
 查询双拼码汉字: `XH [code]`  
